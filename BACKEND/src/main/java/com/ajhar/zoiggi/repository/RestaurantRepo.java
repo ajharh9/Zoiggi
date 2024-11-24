@@ -63,6 +63,15 @@ public class RestaurantRepo {
                     new ArrayList<>(Arrays.asList("Chinese", "Biryani")),
                     "4.4",
                     "30-35 mins"
+            ),
+            new Restaurant(
+                    "516263",
+                    "Patna Biryani Club",
+                    "oamsqzmmt2xt2eaqqt2p",
+                    "Aiims Park",
+                    new ArrayList<>(Arrays.asList("Biryani", "briyani")),
+                    "4.4",
+                    "35-40 mins"
             )
     ));
 }
