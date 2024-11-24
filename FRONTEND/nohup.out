@@ -1,0 +1,14 @@
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+
+> zoiggi@0.1.0 start
+> react-scripts start
+
+Something is already running on port 3000.
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+
+> zoiggi@0.1.0 start
+> react-scripts start
+
+Something is already running on port 3000.

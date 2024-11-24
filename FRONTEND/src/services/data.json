@@ -1,0 +1,694 @@
+{
+  "restaurants": [
+    {
+      "info": {
+        "id": "654087",
+        "name": "Burger King",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/60497022-434e-4d21-bc0e-813fea770ae5_654087.JPG",
+        "locality": "SP Verma Road",
+        "areaName": "Lodipur",
+        "costForTwo": "₹350 for two",
+        "cuisines": ["Burgers", "American"],
+        "avgRating": 4.2,
+        "parentId": "166",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 54,
+          "lastMileTravel": 3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "50-55 mins",
+          "lastMileTravelString": "3.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-09-16 06:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png",
+              "description": "Delivery!"
+            },
+            {
+              "imageId": "Rxawards/_CATEGORY-Burger.png",
+              "description": "Delivery!"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png"
+                  }
+                },
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Rxawards/_CATEGORY-Burger.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "60% OFF",
+          "subHeader": "UPTO ₹120"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-641f0285-5fde-418f-9331-650e76d7b83b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/patna/burger-king-sp-verma-road-lodipur-rest654087",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "591085",
+        "name": "0612 Road Chef",
+        "cloudinaryImageId": "qo1ypqreeaulytd7cmgr",
+        "locality": "Sanjay Nagar Road",
+        "areaName": "Kankarbagh",
+        "costForTwo": "₹400 for two",
+        "cuisines": ["Chinese", "Biryani"],
+        "avgRating": 4.4,
+        "parentId": "22680",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "14K+",
+        "sla": {
+          "deliveryTime": 33,
+          "lastMileTravel": 1.3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "1.3 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-09-16 01:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Green%20Dot%20Awards/Best%20In%20Paneer.png",
+              "description": "Delivery!"
+            },
+            {
+              "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+              "description": "Delivery!"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Green%20Dot%20Awards/Best%20In%20Paneer.png"
+                  }
+                },
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-641f0285-5fde-418f-9331-650e76d7b83b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/patna/0612-road-chef-sanjay-nagar-road-kankarbagh-rest591085",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "682863",
+        "name": "Khyati's Kitchen",
+        "cloudinaryImageId": "97ac64a29439854fbcc66f9482587c13",
+        "locality": "Sanjay Nagar",
+        "areaName": "Kankarbagh",
+        "costForTwo": "₹350 for two",
+        "cuisines": ["Chinese", "Mughlai"],
+        "avgRating": 4.3,
+        "parentId": "407630",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "1.7K+",
+        "sla": {
+          "deliveryTime": 34,
+          "lastMileTravel": 1.3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "1.3 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-09-16 01:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+              "description": "OnlyOnSwiggy"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "OnlyOnSwiggy",
+                    "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "30% OFF",
+          "subHeader": "UPTO ₹150",
+          "discountTag": "SAVE BIG"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-641f0285-5fde-418f-9331-650e76d7b83b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/patna/khyatis-kitchen-sanjay-nagar-kankarbagh-rest682863",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "200489",
+        "name": "Puja Hotel",
+        "cloudinaryImageId": "xegptgj8oshl3fy1m6ku",
+        "locality": "Karbigahiya Road",
+        "areaName": "Kankarbagh",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "North Indian",
+          "Chinese",
+          "Mughlai",
+          "Biryani",
+          "Tandoor"
+        ],
+        "avgRating": 3.8,
+        "parentId": "161734",
+        "avgRatingString": "3.8",
+        "totalRatingsString": "1.2K+",
+        "sla": {
+          "deliveryTime": 32,
+          "lastMileTravel": 1.1,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "1.1 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-09-15 23:59:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹150 OFF",
+          "subHeader": "ABOVE ₹349",
+          "discountTag": "FLAT DEAL"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-641f0285-5fde-418f-9331-650e76d7b83b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/patna/puja-hotel-karbigahiya-road-kankarbagh-rest200489",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "373157",
+        "name": "Oven Story Pizza - Standout Toppings",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/3/dc1834a1-d899-43c2-8d11-1aeb7da35d76_373157.jpg",
+        "locality": "BAHADURPUR HOUSING COLONY",
+        "areaName": "Kankarbagh",
+        "costForTwo": "₹400 for two",
+        "cuisines": ["Pizzas", "Pastas", "Italian", "Desserts", "Beverages"],
+        "avgRating": 4.6,
+        "parentId": "3534",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "1.8K+",
+        "sla": {
+          "deliveryTime": 27,
+          "lastMileTravel": 5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25-30 mins",
+          "lastMileTravelString": "5.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-09-15 23:59:00",
+          "opened": true
+        },
+        "badges": {},
+        "select": true,
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-641f0285-5fde-418f-9331-650e76d7b83b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/patna/oven-story-pizza-standout-toppings-bahadurpur-housing-colony-kankarbagh-rest373157",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "707051",
+        "name": "Kwality Walls Ice Cream and More",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/3967a9e5-221f-4af7-8bec-9d5c63551954_707051.JPG",
+        "locality": "Radha Enterprise",
+        "areaName": "Kankarbagh",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Desserts", "Ice Cream", "Ice Cream Cakes"],
+        "avgRating": 4.6,
+        "veg": true,
+        "parentId": "582",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "2.1K+",
+        "sla": {
+          "deliveryTime": 30,
+          "lastMileTravel": 2.6,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25-30 mins",
+          "lastMileTravelString": "2.6 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-09-16 00:30:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Green%20Dot%20Awards/Best%20In%20Ice%20cream.png",
+              "description": "Delivery!"
+            },
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Green%20Dot%20Awards/Best%20In%20Ice%20cream.png"
+                  }
+                },
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-641f0285-5fde-418f-9331-650e76d7b83b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/patna/kwality-walls-ice-cream-and-more-radha-enterprise-kankarbagh-rest707051",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "516263",
+        "name": "Patna Biryani Club",
+        "cloudinaryImageId": "oamsqzmmt2xt2eaqqt2p",
+        "locality": "Aiims Park",
+        "areaName": "Sri Krishnapuri",
+        "costForTwo": "₹350 for two",
+        "cuisines": ["Biryani", "briyani"],
+        "avgRating": 4.4,
+        "parentId": "282613",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "2.1K+",
+        "sla": {
+          "deliveryTime": 35,
+          "lastMileTravel": 4.3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "4.3 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-09-15 23:00:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "60% OFF",
+          "subHeader": "UPTO ₹120"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-641f0285-5fde-418f-9331-650e76d7b83b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/patna/patna-biryani-club-aiims-park-sri-krishnapuri-rest516263",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "927106",
+        "name": "Banarsi Dhaba",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/af78aed6-e0e7-48c0-80d3-31b204a47a41_927106.jpg",
+        "locality": "Srikrishnapuri",
+        "areaName": "Srikrishnapuri",
+        "costForTwo": "₹299 for two",
+        "cuisines": ["Indian"],
+        "avgRating": 4.3,
+        "veg": true,
+        "parentId": "537804",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "95",
+        "sla": {
+          "deliveryTime": 36,
+          "lastMileTravel": 2.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "2.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-09-16 03:00:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "ITEMS",
+          "subHeader": "AT ₹69"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "isNewlyOnboarded": true,
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-641f0285-5fde-418f-9331-650e76d7b83b"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/patna/banarsi-dhaba-srikrishnapuri-rest927106",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+    "restaurants": [
+      {
+        "info": {
+          "id": "654087",
+          "name": "Burger King",
+          "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/60497022-434e-4d21-bc0e-813fea770ae5_654087.JPG",
+          "locality": "SP Verma Road",
+          "areaName": "Lodipur",
+          "costForTwo": "₹350 for two",
+          "cuisines": ["Burgers", "American"],
+          "avgRating": 4.2,
+          "parentId": "166",
+          "avgRatingString": "4.2",
+          "totalRatingsString": "10K+",
+          "sla": {
+            "deliveryTime": 54,
+            "lastMileTravel": 3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "50-55 mins",
+            "lastMileTravelString": "3.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          }
+        }
+      },
+      {
+        "info": {
+          "id": "591085",
+          "name": "0612 Road Chef",
+          "cloudinaryImageId": "qo1ypqreeaulytd7cmgr",
+          "locality": "Sanjay Nagar Road",
+          "areaName": "Kankarbagh",
+          "costForTwo": "₹400 for two",
+          "cuisines": ["Chinese", "Biryani"],
+          "avgRating": 4.4,
+          "parentId": "22680",
+          "avgRatingString": "4.4",
+          "totalRatingsString": "14K+",
+          "sla": {
+            "deliveryTime": 33,
+            "lastMileTravel": 1.3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30-35 mins",
+            "lastMileTravelString": "1.3 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          }
+        }
+      },
+      {
+        "info": {
+          "id": "682863",
+          "name": "Khyati's Kitchen",
+          "cloudinaryImageId": "97ac64a29439854fbcc66f9482587c13",
+          "locality": "Sanjay Nagar",
+          "areaName": "Kankarbagh",
+          "costForTwo": "₹350 for two",
+          "cuisines": ["Chinese", "Mughlai"],
+          "avgRating": 4.3,
+          "parentId": "407630",
+          "avgRatingString": "4.3",
+          "totalRatingsString": "1.7K+",
+          "sla": {
+            "deliveryTime": 34,
+            "lastMileTravel": 1.3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30-35 mins",
+            "lastMileTravelString": "1.3 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          }
+        }
+      },
+      {
+        "info": {
+          "id": "200489",
+          "name": "Puja Hotel",
+          "cloudinaryImageId": "xegptgj8oshl3fy1m6ku",
+          "locality": "Karbigahiya Road",
+          "areaName": "Kankarbagh",
+          "costForTwo": "₹300 for two",
+          "cuisines": [
+            "North Indian",
+            "Chinese",
+            "Mughlai",
+            "Biryani",
+            "Tandoor"
+          ],
+          "avgRating": 3.8,
+          "parentId": "161734",
+          "avgRatingString": "3.8",
+          "totalRatingsString": "1.2K+",
+          "sla": {
+            "deliveryTime": 32,
+            "lastMileTravel": 1.1,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30-35 mins",
+            "lastMileTravelString": "1.1 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          }
+        }
+      },
+      {
+        "info": {
+          "id": "373157",
+          "name": "Oven Story Pizza - Standout Toppings",
+          "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/3/dc1834a1-d899-43c2-8d11-1aeb7da35d76_373157.jpg",
+          "locality": "BAHADURPUR HOUSING COLONY",
+          "areaName": "Kankarbagh",
+          "costForTwo": "₹400 for two",
+          "cuisines": ["Pizzas", "Pastas", "Italian", "Desserts", "Beverages"],
+          "avgRating": 4.6,
+          "parentId": "3534",
+          "avgRatingString": "4.6",
+          "totalRatingsString": "1.8K+",
+          "sla": {
+            "deliveryTime": 27,
+            "lastMileTravel": 5,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "5.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          }
+        }
+      },
+      {
+        "info": {
+          "id": "707051",
+          "name": "Kwality Walls Ice Cream and More",
+          "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/3967a9e5-221f-4af7-8bec-9d5c63551954_707051.JPG",
+          "locality": "Radha Enterprise",
+          "areaName": "Kankarbagh",
+          "costForTwo": "₹200 for two",
+          "cuisines": ["Desserts", "Ice Cream", "Ice Cream Cakes"],
+          "avgRating": 4.6,
+          "veg": true,
+          "parentId": "582",
+          "avgRatingString": "4.6",
+          "totalRatingsString": "2.1K+",
+          "sla": {
+            "deliveryTime": 30,
+            "lastMileTravel": 2.6,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "2.6 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          }
+        }
+      },
+      {
+        "info": {
+          "id": "516263",
+          "name": "Patna Biryani Club",
+          "cloudinaryImageId": "oamsqzmmt2xt2eaqqt2p",
+          "locality": "Aiims Park",
+          "areaName": "Sri Krishnapuri",
+          "costForTwo": "₹350 for two",
+          "cuisines": ["Biryani", "briyani"],
+          "avgRating": 4.4,
+          "parentId": "282613",
+          "avgRatingString": "4.4",
+          "totalRatingsString": "2.1K+",
+          "sla": {
+            "deliveryTime": 35,
+            "lastMileTravel": 4.3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "35-40 mins",
+            "lastMileTravelString": "4.3 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          }
+        }
+      },
+      {
+        "info": {
+          "id": "927106",
+          "name": "Banarsi Dhaba",
+          "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/af78aed6-e0e7-48c0-80d3-31b204a47a41_927106.jpg",
+          "locality": "Srikrishnapuri",
+          "areaName": "Srikrishnapuri",
+          "costForTwo": "₹299 for two",
+          "cuisines": ["Indian"],
+          "avgRating": 4.3,
+          "veg": true,
+          "parentId": "537804",
+          "avgRatingString": "4.3",
+          "totalRatingsString": "95",
+          "sla": {
+            "deliveryTime": 36,
+            "lastMileTravel": 2.5,
+            "serviceability": "SERVICEABLE",
+            "slaString": "35-40 mins",
+            "lastMileTravelString": "2.5 km",
+            "iconType": "ICON_TYPE_EMPTY"
+          }
+        }
+      }
+    ]
+  }
+  
