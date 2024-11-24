@@ -101,5 +101,5 @@ Zoiggi aims to be a robust and scalable food delivery platform, showcasing:
    ```bash
    git clone https://github.com/your-username/zoiggi.git
    cd zoiggi
-
-![image](https://github.com/user-attachments/assets/96bc8a83-59f2-43bc-8242-66e97bd487f5)
+## 🎥 Demo
+- ![image](https://github.com/user-attachments/assets/96bc8a83-59f2-43bc-8242-66e97bd487f5)
